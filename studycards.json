@@ -12,7 +12,7 @@
       "id": "chess-openings-en",
       "title": "Opening Fundamentals",
       "notes": "Ruy Lopez, Italian and Sicilian Najdorf staples; open-answer and multiple choice.",
-      "url": "banksiastudycards.en.txt",
+      "url": "decks/banksiastudycards.en.txt.gz",
       "variant": "chess", "language": "en", "period": "opening",
       "format": "banksia", "compression": "gzip", "cards": 15, "level": "beginner"
     },
@@ -20,7 +20,7 @@
       "id": "chess-rook-endings-en",
       "title": "Rook Endgame Technique",
       "notes": "Lucena, Philidor and bridge-building.",
-      "url": "bsgstudycards.en.txt",
+      "url": "decks/bsgstudycards.en.txt.gz",
       "variant": "chess", "language": "en", "period": "endgame",
       "format": "banksia", "compression": "gzip", "cards": 22, "level": "intermediate"
     },
@@ -28,7 +28,7 @@
       "id": "chess-tactics-vi",
       "title": "Đòn chiến thuật cơ bản",
       "notes": "Phuộc, ghim, xiên — bài tập cho người mới.",
-      "url": "chess-tactics.vi.txt",
+      "url": "decks/chess-tactics.vi.txt",
       "variant": "chess", "language": "vi", "period": "tactics",
       "format": "banksia", "compression": "none", "cards": 30, "level": "beginner"
     },
@@ -36,7 +36,7 @@
       "id": "xiangqi-openings-zh",
       "title": "中国象棋开局",
       "notes": "中炮、屏风马等常见开局布局。",
-      "url": "xiangqi-openings.zh.txt",
+      "url": "decks/xiangqi-openings.zh.txt.gz",
       "variant": "xiangqi", "language": "zh", "period": "opening",
       "format": "banksia", "compression": "gzip", "cards": 18, "level": "beginner"
     },
@@ -44,7 +44,7 @@
       "id": "xiangqi-endgame-en",
       "title": "Xiangqi Endgame Basics",
       "notes": "Chariot, cannon and horse mating patterns; general-vs-general rule.",
-      "url": "xiangqi-endgame.en.txt",
+      "url": "decks/xiangqi-endgame.en.txt.gz",
       "variant": "xiangqi", "language": "en", "period": "endgame",
       "format": "banksia", "compression": "gzip", "cards": 12, "level": "intermediate"
     }
