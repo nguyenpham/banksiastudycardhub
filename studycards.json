@@ -3,9 +3,21 @@
   "title": "Banksia Study Cards Hub",
   "updated": "2026-06-13",
   "facets": {
-    "variant":  ["chess", "xiangqi"],
-    "period":   ["opening", "middlegame", "endgame", "tactics"],
-    "language": ["en", "vi", "zh"]
+    "variant": [
+      "chess",
+      "xiangqi"
+    ],
+    "period": [
+      "opening",
+      "middlegame",
+      "endgame",
+      "tactics"
+    ],
+    "language": [
+      "en",
+      "vi",
+      "zh"
+    ]
   },
   "decks": [
     {
@@ -13,49 +25,78 @@
       "title": "Opening Fundamentals",
       "notes": "Ruy Lopez, Italian and Sicilian Najdorf staples; open-answer and multiple choice.",
       "url": "chess/banksiastudycards.en.txt",
-      "variant": "chess", "language": "en", "period": "opening",
-      "format": "banksia", "compression": "gzip", "cards": 15, "level": "beginner"
+      "variant": "chess",
+      "language": "en",
+      "period": "opening",
+      "format": "banksia",
+      "compression": "gzip",
+      "cards": 15,
+      "level": "beginner"
     },
     {
       "id": "chess-rook-endings-en",
       "title": "Rook Endgame Technique",
       "notes": "Lucena, Philidor and bridge-building.",
       "url": "chess/bsgstudycards.en.txt",
-      "variant": "chess", "language": "en", "period": "endgame",
-      "format": "banksia", "compression": "none", "cards": 22, "level": "intermediate"
+      "variant": "chess",
+      "language": "en",
+      "period": "endgame",
+      "format": "banksia",
+      "compression": "none",
+      "cards": 22,
+      "level": "intermediate"
     },
     {
       "id": "chess-tactics-vi",
       "title": "Đòn chiến thuật cơ bản",
       "notes": "Phuộc, ghim, xiên — bài tập cho người mới.",
       "url": "chess/chess-tactics.vi.txt",
-      "variant": "chess", "language": "vi", "period": "tactics",
-      "format": "banksia", "compression": "none", "cards": 30, "level": "beginner"
+      "variant": "chess",
+      "language": "vi",
+      "period": "tactics",
+      "format": "banksia",
+      "compression": "none",
+      "cards": 30,
+      "level": "beginner"
     },
-    
     {
       "id": "xiangqi-openings-en",
       "title": "Xiangqi Openings Basics",
       "notes": "Xiangqi Openings Basics.",
       "url": "xiangqi/xiangqi_openings_study_cards.en",
-      "variant": "xiangqi", "language": "en", "period": "opening",
-      "format": "banksia", "compression": "none", "cards": 12, "level": "intermediate"
-    }
+      "variant": "xiangqi",
+      "language": "en",
+      "period": "opening",
+      "format": "banksia",
+      "compression": "none",
+      "cards": 12,
+      "level": "intermediate"
+    },
     {
       "id": "xiangqi-openings-zh",
       "title": "中国象棋开局",
       "notes": "中炮、屏风马等常见开局布局。",
       "url": "xiangqi/xiangqi-openings.zh.txt.gz",
-      "variant": "xiangqi", "language": "zh", "period": "opening",
-      "format": "banksia", "compression": "none", "cards": 18, "level": "beginner"
+      "variant": "xiangqi",
+      "language": "zh",
+      "period": "opening",
+      "format": "banksia",
+      "compression": "none",
+      "cards": 18,
+      "level": "beginner"
     },
     {
       "id": "xiangqi-endgame-en",
       "title": "Xiangqi Endgame Basics",
       "notes": "Chariot, cannon and horse mating patterns; general-vs-general rule.",
       "url": "xiangqi/xiangqi-endgame.en.txt.gz",
-      "variant": "xiangqi", "language": "en", "period": "endgame",
-      "format": "banksia", "compression": "gzip", "cards": 12, "level": "intermediate"
+      "variant": "xiangqi",
+      "language": "en",
+      "period": "endgame",
+      "format": "banksia",
+      "compression": "gzip",
+      "cards": 12,
+      "level": "intermediate"
     }
   ]
 }
