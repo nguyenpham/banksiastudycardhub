@@ -1,0 +1,134 @@
+# Format: Q=Question (may contain multiple [FEN:…] inline), C=Choice, K=Key, A=Answer, E=Explanation, T=Tags, L=Level
+# FEN fields are embedded inline as [FEN: …]
+
+## Q: What opening is reached after 1.e4 e5 2.Nf3 Nc6 3.Bb5? [FEN:r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3]
+A: The Ruy Lopez (Spanish Opening).
+E: Named after Spanish priest Ruy López de Segura who analyzed it in 1561. White pins the knight that defends e5, aiming for long-term pressure rather than an immediate win of material. It is one of the oldest and most deeply analyzed openings in chess.
+T: openings, ruy lopez, e4 openings
+L: beginner
+S: Classical opening theory
+
+## Q: After 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6, what is White’s most principled reply? [FEN:r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4]
+A: 4.Ba4 — retreating the bishop and maintaining the pin.
+E: 4.Bxc6 (the Exchange Variation) is playable but gives up the bishop pair. 4.Ba4 keeps the tension and is the main line. White does not commit early and keeps multiple plans available including O-O, c3, and d4.
+T: openings, ruy lopez, morphy defense
+L: beginner
+S: Classical opening theory
+
+## Q: What is the key idea behind the Sicilian Defense after 1.e4 c5? [FEN:rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2]
+A: Black avoids symmetry, fights for the d4 square, and creates an imbalanced position.
+E: By playing c5 instead of e5, Black controls d4 without giving White a central pawn target. The resulting positions are asymmetrical — Black often has queenside counterplay while White attacks on the kingside. It is the most popular reply to 1.e4 at all levels.
+T: openings, sicilian defense, e4 openings
+L: beginner
+
+## Q: What position arises after 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6? [FEN:rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6]
+A: The Sicilian Dragon.
+E: Black fianchettoes the bishop to g7, creating a powerful diagonal aimed at the queenside. The Dragon is one of the sharpest openings in chess — White typically launches a kingside attack with f3, Be3, Qd2 and O-O-O while Black counterattacks on the queenside. Incorrect play by either side is quickly punished.
+T: openings, sicilian, dragon
+L: intermediate
+
+## Q: What is the Najdorf Variation and what move defines it? [FEN:rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6]
+A: 5…a6 defines the Najdorf after 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3.
+E: The move a6 prevents Nb5 and Bb5+, prepares b5 queenside expansion, and keeps options open for the bishop on c8. Favored by Fischer and Kasparov, the Najdorf is considered one of the richest and most complex openings. Black fights for the initiative from move one.
+T: openings, sicilian, najdorf
+L: intermediate
+S: Named after Miguel Najdorf
+
+## Q: What opening begins with 1.d4 d5 2.c4? What is White’s idea? [FEN:rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2]
+A: The Queen’s Gambit. White offers the c4 pawn to gain central control.
+E: Despite the name it is not a true gambit — if Black takes with 2…dxc4, White can regain the pawn with 3.e3 or 3.Qa4+. The real point is that after dxc4 White gains full control of the center with e4. Most top players at classical time controls prefer to decline with 2…e6 or 2…c6.
+T: openings, queens gambit, d4 openings
+L: beginner
+
+## Q: What is the difference between the Queen’s Gambit Accepted and Declined? [FEN:rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2]
+A: QGA: Black takes 2…dxc4. QGD: Black declines with 2…e6 or 2…c6.
+E: In the QGA Black accepts the pawn but cannot hold it long-term — the game becomes open and dynamic. In the QGD Black reinforces d5 and aims for a solid, structured position. The QGD is considered more solid and is the preferred choice of players who want to fight for equality without early complications.
+T: openings, queens gambit, QGA, QGD
+L: beginner
+
+
+## Q: What is the Scandinavian Defense? What are the two main lines after 1.e4 d5 2.exd5? [FEN:rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2]
+A: 2…Qxd5 (main line) or 2…Nf6 (modern line).
+E: After 2…Qxd5 3.Nc3 the queen must move again (Qa5 or Qd6), but Black has equalized quickly. After 2…Nf6 Black delays recapturing, keeping the game dynamic. The Scandinavian is a solid if slightly passive defense — Black accepts early queen moves in exchange for a clear and easy development plan. Popular at club level.
+T: openings, scandinavian, e4 openings
+L: beginner
+
+
+# Banksia Study Cards — Multiple Choice
+
+## Q: What opening is reached after 1.e4 e5 2.Nf3 Nc6 3.Bb5? [FEN:r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3]
+C: A) The Italian Game
+C: B) The Scotch Game
+C: C) The Ruy Lopez
+C: D) The Four Knights
+K: C
+A: The Ruy Lopez (Spanish Opening).
+E: The bishop on b5 pins the c6 knight that defends e5. White is not winning the pawn immediately — the long-term goal is positional pressure. Named after Spanish priest Ruy López de Segura who analyzed it in 1561. It remains one of the most played openings at all levels.
+T: ruy lopez, e4 openings, multiple choice
+L: beginner
+
+## Q: Which move defines the Sicilian Najdorf? [FEN:rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6]
+C: A) 5…e6
+C: B) 5…g6
+C: C) 5…a6
+C: D) 5…Nc6
+K: C
+A: 5…a6 — preventing Nb5 and Bb5+.
+E: The Najdorf move a6 stops any Nb5 or Bb5+ ideas, prepares queenside expansion with b5, and keeps Black’s development flexible. It does not immediately develop a piece, which is normally a principle violation — but the long-term benefits outweigh this. Fischer and Kasparov made it the most popular Sicilian variation in history.
+T: sicilian, najdorf, multiple choice
+L: beginner
+
+## Q: In the Queen’s Gambit after 1.d4 d5 2.c4, what is the main point of White’s c4? [FEN:rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2]
+C: A) To immediately win a pawn on d5
+C: B) To gain full central control after dxc4 and then e4
+C: C) To develop the queen’s bishop quickly
+C: D) To prepare queenside castling
+K: B
+A: To gain full central control — if Black takes with dxc4, White plays e4 next.
+E: The Queen’s Gambit is not a true gambit because White can almost always regain the c4 pawn. The real point is that after 2…dxc4 3.e4 White has a massive pawn center with no structural weakness. Black is better off declining with 2…e6 or 2…c6 to maintain tension in the center.
+T: queens gambit, d4 openings, multiple choice
+L: beginner
+
+
+
+# Banksia Study Cards — Multiple FEN per Question
+
+## Q: These are two different Sicilian variations after White plays 5.Nc3. Which is the Dragon and which is the Scheveningen?
+Position A: [FEN:r1bqkb1r/pp1ppp1p/2n2np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6]
+Position B: [FEN:r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6]
+C: A) A=Dragon, B=Scheveningen
+C: B) A=Scheveningen, B=Dragon
+C: C) Both are the Dragon
+C: D) Both are the Scheveningen
+K: A
+A: Position A is the Dragon (g6), Position B is the Scheveningen (e6).
+E: The Dragon is identified by g6 — Black will fianchetto the bishop to g7. The Scheveningen is identified by e6 — Black builds a compact pawn triangle on d6 and e6. Both arise after 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 but then diverge sharply. The Dragon leads to extremely sharp attacking games while the Scheveningen is more solid and flexible.
+T: sicilian, dragon, scheveningen, comparison, multiple choice
+L: intermediate
+
+## Q: Compare these two positions. Both are after 1.d4 Nf6 2.c4. Which is the King’s Indian and which is the Nimzo-Indian?
+Position A: [FEN:rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3]
+Position B: [FEN:rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4]
+C: A) A=King’s Indian, B=Nimzo-Indian
+C: B) A=Nimzo-Indian, B=King’s Indian
+C: C) Both are the King’s Indian
+C: D) A=Grünfeld, B=Nimzo-Indian
+K: A
+A: Position A is the King’s Indian (g6 fianchetto). Position B is the Nimzo-Indian (Bb4 pin).
+E: The King’s Indian is a hypermodern setup — Black fianchettoes the bishop to g7 and allows White a big center. The Nimzo-Indian is more direct — Black pins the c3 knight immediately with Bb4, preventing e4. Both are among the best defenses against 1.d4 but have completely different philosophies. The KID fights the center later, the Nimzo fights it from move three.
+T: kings indian, nimzo-indian, comparison, multiple choice
+L: beginner
+
+## Q: White has just played 3.Bb5 in both positions, but the move orders differ. Which position is the Ruy Lopez and which is the Berlin Defense?
+Position A: [FEN:r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3]
+Position B: [FEN:r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4]
+C: A) A=Ruy Lopez main position, B=Berlin Defense
+C: B) A=Berlin Defense, B=Ruy Lopez main position
+C: C) Both are the Ruy Lopez — same position
+C: D) A=Ruy Lopez, B=Scotch Game
+K: A
+A: Position A is the Ruy Lopez after 3.Bb5. Position B is the Berlin Defense after 3…Nf6.
+E: In Position A Black has not yet responded to Bb5 — this is the starting position of the Ruy Lopez. In Position B Black has played 3…Nf6, the Berlin Defense, counterattacking e4 immediately. The Berlin became famous after Kramnik used it to neutralize Kasparov in the 2000 World Championship. The endgame arising after 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 is called the Berlin Wall.
+T: ruy lopez, berlin defense, comparison, multiple choice
+L: intermediate
+S: Berlin popularized by Kramnik vs Kasparov, WCC 2000
