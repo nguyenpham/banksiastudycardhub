@@ -12,7 +12,7 @@
       "id": "chess-openings-en",
       "title": "Opening Fundamentals",
       "notes": "Ruy Lopez, Italian and Sicilian Najdorf staples; open-answer and multiple choice.",
-      "url": "decks/banksiastudycards.en.txt.gz",
+      "url": "decks/banksiastudycards.en.txt",
       "variant": "chess", "language": "en", "period": "opening",
       "format": "banksia", "compression": "gzip", "cards": 15, "level": "beginner"
     },
@@ -20,7 +20,7 @@
       "id": "chess-rook-endings-en",
       "title": "Rook Endgame Technique",
       "notes": "Lucena, Philidor and bridge-building.",
-      "url": "decks/bsgstudycards.en.txt.gz",
+      "url": "decks/bsgstudycards.en.txt",
       "variant": "chess", "language": "en", "period": "endgame",
       "format": "banksia", "compression": "gzip", "cards": 22, "level": "intermediate"
     },
